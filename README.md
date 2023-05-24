@@ -1,3 +1,3 @@
 # todo-project
 
-![wireframepic](https://miro.com/app/board/uXjVMF7GcWs=/)
+![wireframepic](./Pictures/Lab2Pic.png)

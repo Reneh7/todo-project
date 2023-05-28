@@ -1,0 +1,38 @@
+.header1{background-color: aquamarine;}
+.firstUList { 
+    list-style-type: none;
+}
+header ul li{
+    display: inline;
+    padding-left: 50px;
+    margin-left: 300px;
+    
+}
+.div1 {
+    display: flex ;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center
+}
+main p{
+ font-size: 30px;
+ font-weight: bold;
+}
+.table1{
+    border-style: solid;
+    width: 200px;
+    height: 250px;
+}
+th, td { border: 1px solid;}
+
+.foot1{
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+    
+}

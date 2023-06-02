@@ -1,3 +1,4 @@
+
 .header1{background-color: aquamarine;}
 .firstUList { 
     list-style-type: none;
@@ -7,6 +8,10 @@ header ul li{
     padding-left: 50px;
     margin-left: 300px;
     
+}
+header a{
+    text-decoration: none;
+    color: black;
 }
 .div1 {
     display: flex ;
